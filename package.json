@@ -1,0 +1,17 @@
+{
+
+  "name": "instagram-realtime",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "redis": "2.5.x",
+    "socket.io": "2.5.x",
+    "express": "2.5.x",
+    "jade": "2.5.x"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
